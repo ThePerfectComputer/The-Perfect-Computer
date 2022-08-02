@@ -1,11 +1,7 @@
-Dear 2024,
-
-Memory and runtime safe applications,
-
-Managed by a memory and runtime safe kernel,
-
-Running on an auditable SOC with 0 backdoors.
-
-Sincerely,
-
-  The Perfect Computer
+Dreaming of The Perfect Computer
+ - Memory safe kernel written in Rust
+ - GUI as beautiful as MacOS
+ - Open Source Silicon
+ - Open source chip and auditable PHY firmware
+ - Rust is the primary application development language
+ - No electron. Anywhere.
