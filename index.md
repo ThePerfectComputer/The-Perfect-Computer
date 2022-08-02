@@ -1,4 +1,4 @@
-Dreaming of The Perfect Computer
+Dreaming of [The Perfect Computer](https://github.com/ThePerfectComputer)
  - Memory safe kernel written in Rust
  - GUI as beautiful as MacOS
  - Open Source Silicon
