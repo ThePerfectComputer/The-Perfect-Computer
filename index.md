@@ -4,4 +4,5 @@ Dreaming of The Perfect Computer
  - Open Source Silicon
  - Open source chip and auditable PHY firmware
  - Rust is the primary application development language
+ - Cargo as package manager.
  - No electron. Anywhere.
