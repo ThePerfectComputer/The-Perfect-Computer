@@ -1,11 +1,14 @@
 Dreaming of [The Perfect Computer](https://github.com/ThePerfectComputer)
  - Memory safe kernel written in Rust
- - Rust is the primary application development language 
+ - Rust is the primary application development language
+ 
    which would include a completely self hosting Rust 
+
    compiler, enabled by replace GGC binutils with Cranelift.
  - GUI as beautiful as MacOS
  - Open Source Silicon
  - Open source chip and auditable PHY firmware - enabling
+
    auditing for firmware backdoors, see:
    1. https://youtu.be/bfPV4x-HrUI?t=2194
    2. https://youtu.be/bfPV4x-HrUI?t=2309
