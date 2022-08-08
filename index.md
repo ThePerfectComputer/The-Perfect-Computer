@@ -10,8 +10,8 @@ Dreaming of [The Perfect Computer](https://github.com/ThePerfectComputer)
  - Open source chip and auditable PHY firmware - enabling
 
    auditing for firmware backdoors, see:
-   1. https://youtu.be/bfPV4x-HrUI?t=2194
-   2. https://youtu.be/bfPV4x-HrUI?t=2309
+   1. [Intel Management Engine](https://youtu.be/bfPV4x-HrUI?t=2194)
+   2. [Leaking Cryptographic Keys in SGX](https://youtu.be/bfPV4x-HrUI?t=2309)
  - Cargo as package manager.
  - No electron. Anywhere.
 
