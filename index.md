@@ -3,7 +3,7 @@ Dreaming of [The Perfect Computer](https://github.com/ThePerfectComputer)
  - Rust is the primary application development language.
  - Completely self hosting Rust compiler, enabled by replacing GGC binutils with Cranelift.
  - GUI as beautiful as MacOS
- - Open source Silicon
+ - Open source Silicon - digital logic components design in Bluespec Haskell
  - Auditable PHY firmware, needed for auditing for backdoors, see:
    1. [Intel Management Engine](https://youtu.be/bfPV4x-HrUI?t=2194)
    2. [Leaking Cryptographic Keys in SGX](https://youtu.be/bfPV4x-HrUI?t=2309)
